@@ -1,0 +1,11 @@
+li {
+    list-style: none;
+}
+
+input {
+    width: 150px;
+}
+
+.person_row>input {
+    margin: 5px;
+}
