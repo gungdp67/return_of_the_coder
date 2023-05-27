@@ -1,4 +1,4 @@
-# GeekSeat Saga : Return of the Coder
+# Geekseat Saga : Return of the Coder
 
 ## The Killswitch to stop the Witch
 ### Development Environtment
