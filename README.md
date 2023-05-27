@@ -9,9 +9,9 @@
 The first time web application is hit, we will be redirected to home view that provides input to put how many people will be checked. Then generate the person form, fill the year of birth and year of death. And then submit it.
 Once the form submitted the process will be redirected to CoderController at method named CounterWitch. Here the calculation of numbers happen.
 
-There is a Traits named CoderSupport in app\Services\Traits to handle the calculations. Separated from the controller so it can be imported into test unit and test it.
+There is a Traits named CoderSupport in app\Services\Traits to handle the calculations. Separated from the controller so it can be imported into test unit and test it. The test cases is referenced to this test example.
 
-The method whitin the traits are :
+The methods whitin the traits are :
 - Get witch kill number by year
 - Get Average kill number
 - Check is year valid
