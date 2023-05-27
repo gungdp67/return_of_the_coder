@@ -12,15 +12,15 @@ Once the form submitted the process will be redirected to CoderController at met
 There is a Traits named CoderSupport in app\Services\Traits to handle the calculations. Separated from the controller so it can be imported into test unit and test it.
 
 The method whitin the traits are :
--Get witch kill number by year
--Get Average kill number
--Check is year valid
--Get fibonacci numbers
+- Get witch kill number by year
+- Get Average kill number
+- Check is year valid
+- Get fibonacci numbers
 
 There are 4 tests which are :
--The controller method triggered when user submit the form is not returning any errors.
--The fibonacci numbers are correct
--The average kill number is correct
--Check if the person datas are invalid and return -1
+- The controller method triggered when user submit the form is not returning any errors.
+- The fibonacci numbers are correct
+- The average kill number is correct
+- Check if the person datas are invalid and return -1
 
 Web application demo : http://returnofthecoder.nawacoco.com
