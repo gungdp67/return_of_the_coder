@@ -11,7 +11,7 @@ Once the form submitted the process will be redirected to CoderController at met
 
 There is a Trait named CoderSupport in app\Services\Traits to handle the calculations. Separated from the controller so it can be imported into test unit and test it. The test cases is referenced to this test example.
 
-The methods whitin the traits are :
+The methods within the traits are :
 - Get witch kill number by year
 - Get Average kill number
 - Check is year valid
